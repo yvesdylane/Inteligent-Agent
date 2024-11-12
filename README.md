@@ -23,6 +23,8 @@ Decorative Layers 🌳🏡: Just some visuals to make the world look pretty!
 
 To learn more about EE, check out the repo here! 😎
 
+https://github.com/yvesdylane/EnviromentEditor
+
 
 
 🤖✨ Step 2: Agent Design 🛠️
